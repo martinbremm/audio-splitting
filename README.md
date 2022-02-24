@@ -1,3 +1,3 @@
-# AudioProcessing
+# Audio Splitting
 
-Anything related to the analysis or manipulation of audio files
+Splitting audio files based on prodigy start- and endpoints
